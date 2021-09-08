@@ -154,19 +154,6 @@ The Cloud Native Computing Foundation seeks to drive adoption of this paradigm b
 * [Graduated and Incubating Projects](https://www.cncf.io/projects/)
 * [Sandbox Projects](https://www.cncf.io/sandbox-projects/)
 
-future of openshift/kubernetes
-------------------------------
-
-Since its launch, Kubernetes has proven to be more than just Borg for everyone. It has distilled with most reliable API patterns and architectures of prior software. It has coupled them with current authorization policies, load balancing, and other features that are required to manage and run applications at massive scale. In turn, this provides developers with the groundwork for cluster abstractions to enable true portability across clouds. 
-
-With the explosion of innovation around Kubernetes, businesses have started to analyze obstacles for complete adoption. Many giants in the industry have increased investing resources and assuring mission-critical workloads. Fortunately, Kubernetes got a better response for the wave of adoption that swept to the forefront of crowded container management space.
-
-My prediction:
-
-Kubernetes will continue to grow in adoption. However, over time, developers will use the base Kubernetes resources less and less. Projects like Knative and other serverless type abstractions will make it so developers can focus on solving business problems and not infrastructure problems. 
-
-* [Future of Kubernetes](https://cloudacademy.com/blog/kubernetes-the-current-and-future-state-of-k8s-in-the-enterprise/)
-* [Distributed Operating System](https://medium.com/@bleggett/kubernetes-distributed-operating-systems-and-language-level-parallelism-deb7a6710e41)
 
 fixing errors
 -------------
