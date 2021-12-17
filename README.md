@@ -162,4 +162,3 @@ fixing errors
 * Container limit error: increase the cpu limit in limitrange.yml and apply. Delete and recreate the deployment.
 * Resource limit error: increase the cpu limit in resourcequota.yml and apply. Delete and recreate the deploymnet.
 * Failed because of pod view permissions: oc adm policy add-cluster-role-to-user view -z <serviceaccountname> -n <namespace>
-* Failed because of OOM (out of memory). Edit the deployment and increase the cpu memory limit.
